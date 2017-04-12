@@ -1,4 +1,4 @@
-##Aero
+# Aero
 
 An application built under the guidance of Ministry of Civil Aviation and Airport Authority of India. The Qt based application tracks and detects passengers in the Airport and calculates the throughput and Average waiting time of each counter.
 
